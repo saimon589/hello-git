@@ -1,1 +1,1 @@
-print('Git feature message')
+print('Hello git')
